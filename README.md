@@ -1,3 +1,8 @@
+## Qr Code generator
+
+Project developed by [NADHER ARROUM](www.linkedin.com/in/nadherarroum),
+Education purpose
+
 ### Install ngx-qrcode
 
 ```bash
