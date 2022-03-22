@@ -7,5 +7,13 @@
   [elementType]="elementType" 
   [value]="value"
   cssClass="aclass">
-</ngx-qrcode>
+  </ngx-qrcode>
+</div>
+<br><br>
+
+<div class="container input-group mb-3" id="input">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="basic-addon1">@</span>
+  </div>
+  <input [(ngModel)]="value" type="text" class="form-control" placeholder="Value" aria-label="Username" aria-describedby="basic-addon1">
 </div>
